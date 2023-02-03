@@ -1,0 +1,28 @@
+body {
+    background-color: lightyellow;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.titulo {
+    text-align: center;
+    background-color: chartreuse;
+    color: brown;
+    font-size: 32px;
+}
+
+.subtitulo {
+    background-color: chartreuse;
+    text-align: center;
+    color: brown;
+    font-size: 24px;
+}
